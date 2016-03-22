@@ -26,4 +26,8 @@ public class RandomizedFromNToM {
         System.out.println(realResult);
     }
 }
+<<<<<<< HEAD
 //moreto e soleno
+=======
+ //tarator
+>>>>>>> 068b6701b1d21e458a53631623376109c959fff6
