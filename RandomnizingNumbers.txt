@@ -26,3 +26,4 @@ public class RandomizedFromNToM {
         System.out.println(realResult);
     }
 }
+//moreto e soleno
